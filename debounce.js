@@ -1,4 +1,4 @@
-//Pre written DE-BOUNCE Fn. from WesBos
+
 function debounce(func, wait = 20, immediate = true) {
   var timeout;
   return function() {
